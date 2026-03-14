@@ -107,12 +107,4 @@ The analysis shows that the Iris dataset is clean, balanced, and well-structured
 ## 📌 Conclusion
 Dataset understanding is a critical first step in data analytics. Using Python, spreadsheet tools, and BI platforms together improves analytical accuracy and tool adaptability. This task provided a strong foundation for advanced data analysis and machine learning tasks.
 
----
 
-## 👤 Author
-**Khilan Mangukiya**
-
----
-
-## 🔗 GitHub Repository
-https://github.com/khilan4100/dataset-understanding-basic-eda
